@@ -1,3 +1,4 @@
+<a href=https://engineering-metrics.typeform.tf/standards-adoption-tool/reports/hugo-typeform/><img src=https://api.typeform.com/repositories/hugo-typeform/badges.svg /></a>
 # Typeform for Hugo static sites
 
 A few layouts to integrate [Typeform.com](http://typeform.com) into your [Hugo](https://gohugo.io) static sites.
